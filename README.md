@@ -22,4 +22,4 @@ Utilities to help things along:
 - Logic: Logic reduces to *if, then, goto*. Define and layer packets of logic. Give commands synonyms so the AI you're essentially configuring has better intuition and needs less rigorously worded input.
 - Networks: Assign different access to different groups of users.
 
-*I’m new to software development and could use directions. If you see a need for this interface I would love to hear from you.*
+*See PDFs for more detail<br>I’m new to software development and could use directions. If you see a need for this interface I would love to hear from you.*
