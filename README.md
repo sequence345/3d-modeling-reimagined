@@ -1,10 +1,6 @@
 # 3D Modeling Reimagined 
 Next generation 3D Modeling Application
 
-![3 red points bending space (12 second animation)](extras/images/3%20red%20points.gif)
-
-###### (3 red points bending space - 12 second animation)
-
 3D modeling reduces to 5 tools, one of which is Bend. Instead of the mess of points required for NURBS, TSplines, SubDs and the rest -a new approach to modeling curvature. To most easily articulate form, don't bother with objects themselves, but the space in which they sit. Model only the peaks of features of any free-form object, and have the rest seamlessly transition between those peaks.
 
 1. Bend: Articulate form (described above).
@@ -23,3 +19,6 @@ Utilities to help things along:
 - Networks: Assign different access to different groups of users.
 
 *See PDFs for details.<br>I’m new to software development and could use directions. If you see a need for this interface I would love to hear from you.*
+
+![3 red points bending space (12 second animation)](extras/images/3-red-points.gif)
+###### (3 red points bending space - 12 second animation)
