@@ -16,7 +16,7 @@ Utilities to help things along:
 - Fluids: Simulate liquid, smoke, flame...
 - Sound: Create and manipulate sound. Sound can be expressed by just an oscillating, moving point in space.
 - Input: Receive parameters from the likes of a keyboard, mouse, touch-pad, stock-ticker...
-- Logic: Logic reduces to *if, then, goto*. Define and layer packets of logic. Give commands synonyms so the AI you're essentially configuring has better intuition and needs less rigorously worded input.
+- Logic: Logic reduces to *if, then, goto* plus logic symbols. Define and layer packets of logic. Give commands synonyms so the AI you're essentially configuring has better intuition and needs less rigorously worded input.
 - Networks: Assign different access to different groups of users.
 
 *See the 3 PDFs for details.*
