@@ -18,9 +18,8 @@ Utilities to help things along:
 - Logic: Logic reduces to *if, then, goto* plus logic symbols. Define and layer packets of logic. Give commands synonyms so the AI you're essentially configuring has better intuition and needs less rigorously worded input.
 - Networks: Assign different access to different groups of users.
 
-*See the 3 PDFs for details.*
-
 Creative-end-user computing, distilled.
 
 (Creative-end-user: game development, user-interface, product-design, construction, photography, video, music and more.)
 
+*See the 3 PDFs for details.*
