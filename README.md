@@ -19,3 +19,8 @@ Utilities to help things along:
 - Networks: Assign different access to different groups of users.
 
 *See the 3 PDFs for details.*
+
+Creative-end-user computing, distilled.
+
+(Creative-end-user: game development, user-interface, product-design, construction, photography, video, music and more.)
+
