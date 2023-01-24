@@ -20,6 +20,6 @@ Utilities to help things along:
 
 Creative-end-user computing, distilled.
 
-(Creative-end-user: game-development, user-interface, product-design, construction, photography, video, music and more.)
+(Creative-end-user: game/interface development (2d and 3d), product-design, construction, photography, video, music and more.)
 
 *See the 3 PDFs for details.*
