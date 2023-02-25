@@ -1,7 +1,7 @@
 # 3D Modeling Reimagined
 <img align="right" src="extras/images/3redPointsBendingSpace_12secondAnimation.gif" width="40%">
 
-3D modeling reduces to 5 tools, one of which is Bend. Instead of the mess of points required for NURBS, TSplines, SubDs and the rest -a new approach to modeling curvature. To most easily articulate form, don't bother with objects themselves, but the space in which they sit. Model only the peaks of features of any free-form object, and have the rest seamlessly transition between those peaks.
+3D modeling reduces to 5 tools, one of which is Bend. Instead of the mess of points required for NURBS, TSplines, SubDs and the rest -a new approach to modeling curvature. To most easily articulate form, model only the peaks of features of any free-form object, and have the rest seamlessly transition between those peaks.
 
 1. Bend: Articulate form (described above).
 2. Intersect: Generate mapped tables of junctions and segments.
